@@ -14,7 +14,21 @@ You can make a PR editing the section below!
 Resources
 ---------
 
+### Python
+
+- [Python for you and me](http://pymbook.readthedocs.io/en/latest/)
+
+### Flask
+
+- [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+### Django
+
+- [Official Documentation | Django 1.9](https://docs.djangoproject.com/en/1.9/)
+
+- [Mastering Django](http://masteringdjango.com/)
+
 ### Elastic Search
 
-[Elastic Search - The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
+- [Elastic Search - The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 
