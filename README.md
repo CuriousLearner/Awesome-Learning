@@ -32,3 +32,6 @@ Resources
 
 - [Elastic Search - The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 
+### Miscellaneous
+
+- [Learning Guides](https://github.com/manojpandey/learning-guides) - A bunch of slides from various platforms to learn fast. Includes guides for Python, JavaScript, Database, Design, iOS, Ruby, HTML, CSS, git et all.
