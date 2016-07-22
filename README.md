@@ -31,6 +31,8 @@ Resources
 ### Elastic Search
 
 - [Elastic Search - The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
+- [Elastic Search Primer](https://qbox.io/blog/an-elasticsearch-primer)
+- [Elastic Search CheatSheet](http://elasticsearch-cheatsheet.jolicode.com/)
 
 ### Miscellaneous
 
