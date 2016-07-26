@@ -25,7 +25,6 @@ Resources
 ### Django
 
 - [Official Documentation | Django 1.9](https://docs.djangoproject.com/en/1.9/)
-
 - [Mastering Django](http://masteringdjango.com/)
 
 ### Elastic Search
@@ -35,6 +34,9 @@ Resources
 - [Elastic Search CheatSheet](http://elasticsearch-cheatsheet.jolicode.com/)
 - [Elastic Search Query Tutroial](http://okfnlabs.org/blog/2013/07/01/elasticsearch-query-tutorial.html)
 
+### Git
+
+- [Become a Git Guru](https://www.atlassian.com/git/tutorials/)
 
 ### Miscellaneous
 
