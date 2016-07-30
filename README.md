@@ -38,8 +38,11 @@ Resources
 
 - [Become a Git Guru](https://www.atlassian.com/git/tutorials/)
 
+### Docker
+
+- [Docker Curriculum - Docker for Beginners](https://github.com/prakhar1989/docker-curriculum)
+
 ### Miscellaneous
 
 - [Learning Guides](https://github.com/manojpandey/learning-guides) - A bunch of slides from various platforms to learn fast. Includes guides for Python, JavaScript, Database, Design, iOS, Ruby, HTML, CSS, git et all.
-
 - [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes) - A four minute introduction to Web Design.
