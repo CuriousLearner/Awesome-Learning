@@ -14,6 +14,10 @@ You can make a PR editing the section below!
 Resources
 ---------
 
+### HTML5
+
+- [The Basic of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/)
+
 ### Python
 
 - [Python for you and me](http://pymbook.readthedocs.io/en/latest/)
