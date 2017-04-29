@@ -55,3 +55,4 @@ Resources
 
 - [Learning Guides](https://github.com/manojpandey/learning-guides) - A bunch of slides from various platforms to learn fast. Includes guides for Python, JavaScript, Database, Design, iOS, Ruby, HTML, CSS, git et all.
 - [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes) - A four minute introduction to Web Design.
+- [How to become a Hacker](http://www.catb.org/esr/faqs/hacker-howto.html) - A guide for newbies with questions like "How to become a wizardly hacker" and what actually the term "Hacker" means.
