@@ -35,6 +35,7 @@ Resources
 
 - [Official Documentation | Django 1.9](https://docs.djangoproject.com/en/1.9/)
 - [Mastering Django](http://masteringdjango.com/)
+- [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
 
 ### Elastic Search
 
