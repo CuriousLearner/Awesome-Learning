@@ -51,6 +51,9 @@ Resources
 
 - [Docker Curriculum - Docker for Beginners](https://github.com/prakhar1989/docker-curriculum)
 
+### Blockchain
+- [Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
+
 ### Miscellaneous
 
 - [Learning Guides](https://github.com/manojpandey/learning-guides) - A bunch of slides from various platforms to learn fast. Includes guides for Python, JavaScript, Database, Design, iOS, Ruby, HTML, CSS, git et all.
