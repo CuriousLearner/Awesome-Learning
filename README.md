@@ -26,7 +26,7 @@ Resources
 ### Python
 
 - [Python for you and me](http://pymbook.readthedocs.io/en/latest/)
-- [Automate the boting stuff](https://automatetheboringstuff.com/)
+- [Automate the boring stuff](https://automatetheboringstuff.com/)
 
 ### Flask
 
