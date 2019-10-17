@@ -26,6 +26,7 @@ Resources
 ### Python
 
 - [Python for you and me](http://pymbook.readthedocs.io/en/latest/)
+- [Automate the boring stuff](https://automatetheboringstuff.com/)
 
 ### Flask
 
@@ -33,7 +34,7 @@ Resources
 
 ### Django
 
-- [Official Documentation | Django 1.9](https://docs.djangoproject.com/en/1.9/)
+- [Official Documentation | Django 2.2](https://docs.djangoproject.com/en/2.2/)
 - [Mastering Django](http://masteringdjango.com/)
 
 ### Elastic Search
@@ -42,6 +43,10 @@ Resources
 - [Elastic Search Primer](https://qbox.io/blog/an-elasticsearch-primer)
 - [Elastic Search CheatSheet](http://elasticsearch-cheatsheet.jolicode.com/)
 - [Elastic Search Query Tutroial](http://okfnlabs.org/blog/2013/07/01/elasticsearch-query-tutorial.html)
+
+### Serverless
+
+- [Build your first serverless application](https://aws.amazon.com/serverless/build-a-web-app/)
 
 ### Git
 
