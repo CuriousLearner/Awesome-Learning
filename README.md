@@ -36,6 +36,7 @@ Resources
 
 - [Official Documentation | Django 2.2](https://docs.djangoproject.com/en/2.2/)
 - [Mastering Django](http://masteringdjango.com/)
+- [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
 
 ### Elastic Search
 
