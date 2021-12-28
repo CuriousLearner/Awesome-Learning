@@ -67,3 +67,4 @@ Resources
 - [How to become a Hacker](http://www.catb.org/esr/faqs/hacker-howto.html) - A guide for newbies with questions like "How to become a wizardly hacker" and what actually the term "Hacker" means.
 - [Front-End Checklist](http://frontendchecklist.com/) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 - [Knowledge Base](https://docs.statamic.com/knowledge-base) - Articles, tips, tricks, and other helpful content to help answer the hard-to-categorize questions you might have. Godspeed on your quest!
+- [Learning XPath through Game](https://topswagcode.com/xpath/) - This is an interactive tutorial to learn XPath.
