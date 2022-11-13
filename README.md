@@ -58,7 +58,13 @@ Resources
 - [Docker Curriculum - Docker for Beginners](https://github.com/prakhar1989/docker-curriculum)
 
 ### Blockchain
+
 - [Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
+
+### ReactJS
+
+- [Scrimba: Learn React for Free](https://scrimba.com/learn/learnreact)
+- [EpicReact.dev](https://epicreact.dev/) is paid, but you can access the [exercises for free here](https://github.com/kentcdodds/react-fundamentals)
 
 ### Miscellaneous
 
