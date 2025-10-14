@@ -56,6 +56,7 @@ Resources
 ### Docker
 
 - [Docker Curriculum - Docker for Beginners](https://github.com/prakhar1989/docker-curriculum)
+- [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
 
 ### Blockchain
 
